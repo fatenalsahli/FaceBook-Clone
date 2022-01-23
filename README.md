@@ -1,24 +1,18 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# FaceBook-CLone
+FaceBook-Clone simple program that performs some operations such as adding, deleting and updating useing Ruby On Rails (ROR)
 
-Things you may want to cover:
+# Authors
+this project was executed by :
 
-* Ruby version
 
+# Used Tools :
+* Ruby
+* Visual studio code 
 * System dependencies
 
-* Configuration
+# ScreenShots:
 
-* Database creation
 
-* Database initialization
+https://user-images.githubusercontent.com/97634511/150695466-d0b3b8c9-4869-445c-b866-c5f13f899044.MOV
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
